@@ -1,0 +1,35 @@
+#schermata_caricamento {
+    width: 100%;
+    height:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    background-color:#f1f2f3;
+    background-image:url(https://cdn.discordapp.com/attachments/1055069906401497180/1055070023489695804/Rolling-1s-200px.gif);
+    background-repeat:no-repeat;
+    background-position:center;
+  }
+
+#scrittasopra{
+  padding:1000%;
+  background-color: transparent;
+}
+#SCRITTA{
+  text-decoration: none;
+  color:rgb(0, 159, 227);
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+body{
+  display: block;
+}
+a{
+  display: block;
+}
+span{
+  display: block;
+}
+div{
+  display: block;
+}
