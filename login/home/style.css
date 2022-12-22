@@ -46,6 +46,7 @@ nav li{
 }
 nav li:hover{
     background-color:#737373 ;
+    border-radius: 5px;
 }
 #divpartesopra{
     background-color:rgb(228, 228, 228);
@@ -57,4 +58,8 @@ nav li:hover{
 #sotto{
     background-color: #303030;
     height: 300px;
+}
+#img1{
+    border-radius: 100%;
+    width: 200px;
 }
